@@ -1,0 +1,52 @@
+{
+  "employee": [
+    {
+      "clientName": "Shreevali",
+      "date": "2022-01-22",
+      "purpose": "Internet",
+      "amount": "1200",
+      "status": false,
+      "id": 1
+    },
+    {
+      "clientName": "Shreyas",
+      "date": "2022-01-24",
+      "purpose": "Stationery",
+      "amount": "1000",
+      "status": false,
+      "id": 2
+    },
+    {
+      "clientName": "Akhilesh",
+      "date": "2022-01-24",
+      "purpose": "Food",
+      "amount": "1300",
+      "status": false,
+      "id": 3
+    },
+    {
+      "clientName": "Shrikant",
+      "date": "2022-02-22",
+      "purpose": "Monitor",
+      "amount": "20000",
+      "status": false,
+      "id": 4
+    },
+    {
+      "clientName": "Hemant",
+      "date": "2021-03-22",
+      "purpose": "Chocolates",
+      "amount": "1200",
+      "status": false,
+      "id": 5
+    },
+    {
+      "clientName": "Himanshi",
+      "date": "2021-03-22",
+      "purpose": "Chairs",
+      "amount": "12000",
+      "status": false,
+      "id": 6
+    }
+  ]
+}
